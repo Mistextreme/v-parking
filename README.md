@@ -1,3 +1,5 @@
+# ⚠️ **THIS SCRIPT IS NO LONGER MAINTAINED, USE AT YOUR OWN RISK** ⚠️
+
 # v-parking: Parking Enforcement Script
 
 ## Overview
